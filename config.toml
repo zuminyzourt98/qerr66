@@ -1,0 +1,4 @@
+baseURL = "https://happybirthday-gee.vercel.app"
+languageCode = "en-us"
+title = "About Happy Birthday"
+theme = "hugo-theme-minos"
